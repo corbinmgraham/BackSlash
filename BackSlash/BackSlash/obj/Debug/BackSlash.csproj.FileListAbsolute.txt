@@ -1,0 +1,9 @@
+c:\users\corbi_000\documents\visual studio 2015\Projects\BackSlash\BackSlash\bin\Debug\BackSlash.exe.config
+c:\users\corbi_000\documents\visual studio 2015\Projects\BackSlash\BackSlash\bin\Debug\BackSlash.exe
+c:\users\corbi_000\documents\visual studio 2015\Projects\BackSlash\BackSlash\bin\Debug\BackSlash.pdb
+c:\users\corbi_000\documents\visual studio 2015\Projects\BackSlash\BackSlash\obj\Debug\BackSlash.csprojResolveAssemblyReference.cache
+c:\users\corbi_000\documents\visual studio 2015\Projects\BackSlash\BackSlash\obj\Debug\BackSlash.Form1.resources
+c:\users\corbi_000\documents\visual studio 2015\Projects\BackSlash\BackSlash\obj\Debug\BackSlash.Properties.Resources.resources
+c:\users\corbi_000\documents\visual studio 2015\Projects\BackSlash\BackSlash\obj\Debug\BackSlash.csproj.GenerateResource.Cache
+c:\users\corbi_000\documents\visual studio 2015\Projects\BackSlash\BackSlash\obj\Debug\BackSlash.exe
+c:\users\corbi_000\documents\visual studio 2015\Projects\BackSlash\BackSlash\obj\Debug\BackSlash.pdb
